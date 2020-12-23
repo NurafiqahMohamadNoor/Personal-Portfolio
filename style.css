@@ -1,0 +1,41 @@
+body 
+{
+	background-color: plum;
+}
+
+h1
+{
+	background-color: lightblue;
+	font-face: rockwell extra bold;
+	font-size: 100px
+	text-align: center;
+	color: seagreen; 
+	border: solid;
+	border-color: linen;
+	border-radius: 60px;
+}
+p
+{
+	background-color: salmon;
+	font-size:  20px;
+	text-align: center;
+	color: Moccasin;
+	font-family: 'Courgette', cursive;
+	padding: 15px;
+
+a:alink, a:visited
+	{
+	background-color: #f44336;
+	color: white;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;
+	}
+
+a:hover, a:active
+	{
+	background-color: red;
+	color: white;
+	}
